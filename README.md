@@ -20,7 +20,7 @@ We use the <i>[Our World in Data](https://github.com/owid/covid-19-data/tree/mas
 
 ## Developer
 
-[HannMeressa](https://www.github.com/HannaMeressa) (hanna.me2010@gmail.com@gmail.com)
+[HannMeressa](https://www.github.com/HannaMeressa) (hanna.me2010@gmail.com)
 
 ## Cite this work
 If you use our static model, please cite:
