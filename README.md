@@ -1,4 +1,5 @@
-# Predicting the Growth and Trend of COVID-19 Pandemic
+#American Collge Of Technology (Department of MSCS)
+#Prediction of COVID-2019 an improved prediction model
 
 This study applies an improved mathematical model to analyse and predict the growth of the epidemic. An ML-based improved model has been applied to predict the potential threat of COVID-19 in countries worldwide. We show that using iterative weighting for fitting Generalized Inverse Weibull distribution, a better fit can be obtained to develop a prediction framework. This has been deployed on a cloud computing platform for more accurate and real-time prediction of the growth behavior of the epidemic. Interactive prediction graphs can be seen at: https://collaboration.coraltele.com/covid/.
 
@@ -19,7 +20,7 @@ We use the <i>[Our World in Data](https://github.com/owid/covid-19-data/tree/mas
 
 ## Developer
 
-[Shreshth Tuli](https://www.github.com/shreshthtuli) (shreshthtuli@gmail.com)
+[HannMeressa](https://www.github.com/HannaMeressa) (hanna.me2010@gmail.com@gmail.com)
 
 ## Cite this work
 If you use our static model, please cite:
